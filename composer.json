@@ -1,5 +1,5 @@
 {
-    "name": "lyhiving/php-parser",
+    "name": "nikic/php-parser",
     "type": "library",
     "description": "A PHP parser written in PHP",
     "keywords": [
